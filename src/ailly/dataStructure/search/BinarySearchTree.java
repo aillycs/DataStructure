@@ -1,4 +1,4 @@
-package ailly.search;
+package ailly.dataStructure.search;
 
 public class BinarySearchTree<Key extends Comparable<Key>, Value> {
 

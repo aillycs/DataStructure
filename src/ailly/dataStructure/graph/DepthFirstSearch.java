@@ -1,4 +1,4 @@
-package ailly.graph;
+package ailly.dataStructure.graph;
 
 public class DepthFirstSearch {
 

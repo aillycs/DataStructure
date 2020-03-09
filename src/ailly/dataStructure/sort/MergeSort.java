@@ -1,4 +1,4 @@
-package ailly.sort;
+package ailly.dataStructure.sort;
 
 public class MergeSort {
 
@@ -40,7 +40,7 @@ public class MergeSort {
   }
 
   public static void main(String[] args) {
-    int[] arr1 = {10, 34, 2, 56, 7, 67, 88, 42};
+    int[] arr1 = {100, 34, -2, 56, 7, 7, 67, 88, 90, 42};
     for (int i : arr1) {
       System.out.print(i + " ");
     }

@@ -1,4 +1,4 @@
-package ailly.sort;
+package ailly.dataStructure.sort;
 
 import java.util.ArrayList;
 import java.util.List;

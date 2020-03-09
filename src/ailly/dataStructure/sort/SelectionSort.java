@@ -1,4 +1,4 @@
-package ailly.sort;
+package ailly.dataStructure.sort;
 
 public class SelectionSort {
 
